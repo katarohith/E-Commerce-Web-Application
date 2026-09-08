@@ -2,9 +2,9 @@
 
 COMPANY:THIRANEX
 
-NAME:G.LAKSHMI NARAYANA REDDY
+NAME:K. ROHITH NAIDU
 
-INTERN ID:THX-MAY2126-576
+INTERN ID:THX-MAY2126-980
 
 DOMAIN:JAVA FULL STACK DEVELOPMENT 
 
@@ -89,6 +89,6 @@ Contact:
 
 For any questions or feedback, feel free to reach out:
 
-G.LAKSHMI NARAYANA REDDY
+K. ROHITH NAIDU
 Company: THIRANEX
-Email: gumreddylakshminarayana@karunya.edu.in
+Email: katarohith@karunya.edu.in
