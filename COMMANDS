@@ -1,0 +1,36 @@
+"Commands to get "src, node_modules, public" ":
+
+
+npx create-react-app ecommerce
+cd ecommerce
+npm start
+
+
+
+
+"commands to view the frontend project" :
+
+cd C:\Users\glaks\ecommerce\ecommerce
+npm install
+npm install axios react-router-dom
+npm start
+
+
+"commands to get  backend" :
+
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose cors bcryptjs jsonwebtoken nodemon
+
+mkdir models
+New-Item server.js
+New-Item models\Product.js
+New-Item models\Order.js
+New-Item models\User.js
+
+
+ "commands to view backend":
+
+cd C:\Users\glaks\ecommerce\ecommerce\backend
+npx nodemon server.js
